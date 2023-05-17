@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
 }
 
@@ -57,3 +57,8 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/* Past = grey ; present = red ; future = green
+/* Future, present, and past classes need to removed because the JavaScript will do that work */
+/* I need to remove the past, present, and future 
+/* Look at JavaScript substring function 
