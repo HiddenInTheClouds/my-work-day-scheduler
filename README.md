@@ -10,6 +10,8 @@ To use this app one must just input text into the text boxes and click the save 
 
 ## Usage
 
+Deployed page: https://hiddenintheclouds.github.io/my-work-day-scheduler/
+
 ![image](https://github.com/HiddenInTheClouds/my-work-day-scheduler/assets/130003909/d42c8abe-c171-454a-9fcd-b828ab42a4f3)
 
 ## Credits
