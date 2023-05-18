@@ -8,7 +8,7 @@ $(".saveBtn").on("click", function () {
 
   localStorage.setItem(time, text);
 });
-// Is the variable timeNow written correctly?
+// Function for changing timeblocks to a different color depending on present, past, or future
 function timeTracker() {
   var timeNow = dayjs().hour();
 
