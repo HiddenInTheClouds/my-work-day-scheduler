@@ -2,7 +2,7 @@
 
 ## Description
 
-This application was created in order to allow a user to input tasks for their daily work schedule. They are able to save them so that the text that is entered is stored in the local storage.
+This application was created in order to allow a user to input tasks for their daily work schedule. They are able to save them so that the text that is entered is stored in the local storage. There are time blocks for the average user's workday which depending on the time will change according to if the task is in the past, present, or future.
 
 ## Installation
 
